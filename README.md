@@ -7,3 +7,5 @@
  The data were provided by the organizing body of LASIG - Information System and Georeferencing Laboratory; the monitoring of this research can be reviewed in more detail in the TCC - Course Conclusion Paper provided below:
  
 # Resultados
+
+# Conclusão
