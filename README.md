@@ -4,7 +4,7 @@
    
  # Vulnerable Rape
  It will be studied on the topic of vulnerable rape in relation to the municipality of Belém - PA, where a survey was conducted during the period January 2017 - October 2021. Where the real dimension of the problem will be seen in a descriptive and quantitative way. 
- The data were provided by the organizing body of LASIG - Information System and Georeferencing Laboratory; the monitoring of this research can be reviewed in more detail in the TCC - Course Conclusion Paper provided below:
+ The data were provided by the organizing body of LASIG - Information System and Georeferencing Laboratory; the monitoring of this research can be reviewed in more detail in the TCC - Course Conclusion Paper provided below: 
  
 # Resultados 
 
